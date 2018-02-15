@@ -1,3 +1,3 @@
 # microservice
 
-Project related java microservices.
+Microservice projects.
